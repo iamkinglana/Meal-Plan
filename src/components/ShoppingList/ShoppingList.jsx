@@ -1,4 +1,3 @@
-// src/components/ShoppingList.js
 import { useState } from 'react';
 
 const ShoppingList = ({ meals }) => {

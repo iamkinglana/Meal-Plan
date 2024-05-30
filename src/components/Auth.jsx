@@ -1,4 +1,3 @@
-// src/components/Auth.js
 import  { useState } from 'react';
 import { auth } from '../firebase';
 

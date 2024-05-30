@@ -1,4 +1,3 @@
-// src/components/Feedback.js
 import { useState } from 'react';
 import { firestore } from './firebase/firebase';
 // import { Firestore } from 'firebase/firestore';

@@ -2,7 +2,6 @@ import firebase from 'firebase/app';
 import 'firebase/auth';
 import 'firebase/firestore';
 
-// Replace with your Firebase project configuration
 const firebaseConfig = {
     apiKey: "AIzaSyB0Li95AzCn5QbJM3Fi6_iE216SvepO19w",
     authDomain: "mealplan-8ca36.firebaseapp.com",
